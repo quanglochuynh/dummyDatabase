@@ -1,0 +1,208 @@
+{
+  "DummyOrder": [
+    {
+      "id": "I397590832",
+      "status": "0",
+      "senderName": "Benny",
+      "senderAddress": {
+        "homeNo": "82",
+        "streetName": "Đường Hiệp Bình",
+        "wardName": "Hiệp Bình Phước",
+        "districtName": "Thủ Đức",
+        "provinceName": "TPHCM",
+        "location": {
+          "latitude": "10.845435170442244",
+          "longitude": "106.72530226400684"
+        }
+      },
+      "senderPhone": "0942364589",
+      "recieverName": "Loc Huynh",
+      "recieverAddress": {
+        "homeNo": "340C/31",
+        "streetName": "Hoàng Văn Thụ",
+        "wardName": "f4",
+        "districtName": "Tân Bình",
+        "provinceName": "TPHCM",
+        "location": {
+          "latitude": "10.7978419900938",
+          "longitude": "106.6569357297156"
+        }
+      },
+      "recieverPhone": "04535673545",
+      "packageName": "Đồ",
+      "fee": "900000",
+      "bonus": "60000",
+      "distance": "15.4",
+      "image": []
+    },
+    {
+      "id": "I397590834",
+      "status": "1",
+      "senderName": "Benny",
+      "senderAddress": {
+        "homeNo": "82",
+        "streetName": "Đường Hiệp Bình",
+        "wardName": "Hiệp Bình Phước",
+        "districtName": "Thủ Đức",
+        "provinceName": "TPHCM",
+        "location": {
+          "latitude": "10.845435170442244",
+          "longitude": "106.72530226400684"
+        }
+      },
+      "senderPhone": "0942364589",
+      "recieverName": "Greedy Thuan",
+      "recieverAddress": {
+        "homeNo": "38/9D",
+        "streetName": "Nguyễn Văn Trỗi",
+        "wardName": "Phường 15",
+        "districtName": "Phú Nhuận",
+        "provinceName": "Thành phố Hồ Chí Minh",
+        "location": {
+          "latitude": "10.794029081546059",
+          "longitude": "106.67961824174498"
+        }
+      },
+      "recieverPhone": "04535673545",
+      "packageName": "Đồ",
+      "fee": "900000",
+      "bonus": "60000",
+      "distance": "15.4",
+      "image": []
+    },
+    {
+      "id": "I397590837",
+      "status": "2",
+      "senderName": "Greedy Thuan",
+      "senderAddress": {
+        "homeNo": "38/9D",
+        "streetName": "Nguyễn Văn Trỗi",
+        "wardName": "Phường 15",
+        "districtName": "Phú Nhuận",
+        "provinceName": "Thành phố Hồ Chí Minh",
+        "location": {
+          "latitude": "10.794029081546059",
+          "longitude": "106.67961824174498"
+        }
+      },
+      "senderPhone": "0942364589",
+      "recieverName": "Loc Huynh",
+      "recieverAddress": {
+        "homeNo": "340C/31",
+        "streetName": "Hoàng Văn Thụ",
+        "wardName": "f4",
+        "districtName": "Tân Bình",
+        "provinceName": "TPHCM",
+        "location": {
+          "latitude": "10.7978419900938",
+          "longitude": "106.6569357297156"
+        }
+      },
+      "recieverPhone": "0942268244",
+      "packageName": "Đồ",
+      "fee": "900000",
+      "bonus": "60000",
+      "distance": "15.4",
+      "image": [
+        {
+          "uri": "https://res.cloudinary.com/dsaqkqvem/image/upload/v1676102153/cld-sample-5.jpg"
+        }
+      ]
+    },
+    {
+      "id": "I397590838",
+      "status": "3",
+      "senderName": "Loc Huynh",
+      "senderAddress": {
+        "homeNo": "340C/31",
+        "streetName": "Hoàng Văn Thụ",
+        "wardName": "f4",
+        "districtName": "Tân Bình",
+        "provinceName": "TPHCM",
+        "location": {
+          "latitude": "10.7978419900938",
+          "longitude": "106.6569357297156"
+        }
+      },
+      "senderPhone": "0942364589",
+      "recieverName": "Greedy Thuan",
+      "recieverAddress": {
+        "homeNo": "38/9D",
+        "streetName": "Nguyễn Văn Trỗi",
+        "wardName": "Phường 15",
+        "districtName": "Phú Nhuận",
+        "provinceName": "Thành phố Hồ Chí Minh",
+        "location": {
+          "latitude": "10.794029081546059",
+          "longitude": "106.67961824174498"
+        }
+      },
+      "recieverPhone": "04535673545",
+      "packageName": "Đồ",
+      "fee": "900000",
+      "bonus": "60000",
+      "distance": "15.4",
+      "image": [
+        {
+          "uri": "https://res.cloudinary.com/dsaqkqvem/image/upload/v1676102138/samples/ecommerce/leather-bag-gray.jpg"
+        }
+      ]
+    },
+    {
+      "id": "I397590839",
+      "status": "4",
+      "senderName": "Benny",
+      "senderAddress": {
+        "homeNo": "82",
+        "streetName": "Đường Hiệp Bình",
+        "wardName": "Hiệp Bình Phước",
+        "districtName": "Thủ Đức",
+        "provinceName": "TPHCM",
+        "location": {
+          "latitude": "10.845435170442244",
+          "longitude": "106.72530226400684"
+        }
+      },
+      "senderPhone": "0942364589",
+      "recieverName": "Greedy Thuan",
+      "recieverAddress": {
+        "homeNo": "38/9D",
+        "streetName": "Nguyễn Văn Trỗi",
+        "wardName": "Phường 15",
+        "districtName": "Phú Nhuận",
+        "provinceName": "Thành phố Hồ Chí Minh",
+        "location": {
+          "latitude": "10.794029081546059",
+          "longitude": "106.67961824174498"
+        }
+      },
+      "recieverPhone": "04535673545",
+      "packageName": "Đồ",
+      "fee": "170000",
+      "bonus": "40000",
+      "distance": "15.4",
+      "image": [
+        {
+          "uri": "https://res.cloudinary.com/dsaqkqvem/image/upload/v1676102129/samples/ecommerce/analog-classic.jpg"
+        },
+        {
+          "uri": "https://res.cloudinary.com/dsaqkqvem/image/upload/v1676102138/samples/ecommerce/leather-bag-gray.jpg"
+        }
+      ]
+    }
+  ],
+  "DummyUser": {
+    "name": "Lưu Quang Phước",
+    "username": "phuocluu",
+    "password": "*********",
+    "dateOfBirth": "06/09/2002",
+    "CCCD": "83200011081",
+    "point": 127,
+    "ratio": "93%"
+  },
+  "LoginKey": {
+    "username": "quanglochuynh",
+    "permission": "shipper",
+    "userToken": "jfaohgroirjhaorihjauhal;iojhavmamvlkSjglijhgozb"
+  }
+}
