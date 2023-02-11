@@ -203,6 +203,7 @@
   "LoginKey": {
     "username": "quanglochuynh",
     "permission": "shipper",
-    "userToken": "jfaohgroirjhaorihjauhal;iojhavmamvlkSjglijhgozb"
+    "userToken": "jfaohgroirjhaorihjauhal;iojhavmamvlkSjglijhgozb",
+    "shipper2RecieverMaxDistance: 100"
   }
 }
